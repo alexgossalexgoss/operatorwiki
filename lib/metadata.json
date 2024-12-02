@@ -1,6 +1,6 @@
 {
   "vaultName": "OperatorDesignDoc",
-  "lastExport": 1733178630078,
+  "lastExport": 1733178836694,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": false,
@@ -9,9 +9,11 @@
     "folder/thing 1.md",
     "folder/thing 3.md",
     "folder/thing2.md",
+    "control panel.md",
     "index.md",
     "mechanics.md",
     "operator design doc home.md",
+    "Pasted image 20241202173332.png",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
     "lib/fonts/2d5198822ab091ce4305.woff2",
@@ -45,123 +47,135 @@
   ],
   "fileInfo": {
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1733178630078,
+      "modifiedTime": 1733178836694,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1733178630078,
+      "modifiedTime": 1733178836694,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1733178630078,
+      "modifiedTime": 1733178836694,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1733178630078,
+      "modifiedTime": 1733178836694,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1733178630078,
+      "modifiedTime": 1733178836694,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1733178630078,
+      "modifiedTime": 1733178836694,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1733178630078,
+      "modifiedTime": 1733178836694,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1733178630078,
+      "modifiedTime": 1733178836694,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1733178630078,
+      "modifiedTime": 1733178836694,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1733178630078,
+      "modifiedTime": 1733178836694,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1733178630078,
+      "modifiedTime": 1733178836694,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1733178630078,
+      "modifiedTime": 1733178836694,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1733178630078,
+      "modifiedTime": 1733178836694,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1733178630078,
+      "modifiedTime": 1733178836694,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "mechanics.md": {
-      "modifiedTime": 1733178630078,
+      "modifiedTime": 1733178836694,
       "sourceSize": 24,
       "exportedPath": "mechanics.html",
       "dependencies": []
     },
     "operator design doc home.md": {
-      "modifiedTime": 1733178630078,
+      "modifiedTime": 1733178836694,
       "sourceSize": 15,
       "exportedPath": "operator design doc home.html",
       "dependencies": []
     },
     "index.md": {
-      "modifiedTime": 1733178630078,
+      "modifiedTime": 1733178836694,
       "sourceSize": 119,
       "exportedPath": "index.html",
       "dependencies": []
     },
     "folder/thing 1.md": {
-      "modifiedTime": 1733178630078,
+      "modifiedTime": 1733178836694,
       "sourceSize": 0,
       "exportedPath": "folder/thing 1.html",
       "dependencies": []
     },
     "folder/thing 3.md": {
-      "modifiedTime": 1733178630078,
+      "modifiedTime": 1733178836694,
       "sourceSize": 0,
       "exportedPath": "folder/thing 3.html",
       "dependencies": []
     },
     "folder/thing2.md": {
-      "modifiedTime": 1733178630078,
+      "modifiedTime": 1733178836694,
       "sourceSize": 0,
       "exportedPath": "folder/thing2.html",
+      "dependencies": []
+    },
+    "control panel.md": {
+      "modifiedTime": 1733178836694,
+      "sourceSize": 66,
+      "exportedPath": "control panel.html",
+      "dependencies": []
+    },
+    "Pasted image 20241202173332.png": {
+      "modifiedTime": 1733178836694,
+      "sourceSize": 2721821,
+      "exportedPath": "Pasted image 20241202173332.png",
       "dependencies": []
     }
   }
