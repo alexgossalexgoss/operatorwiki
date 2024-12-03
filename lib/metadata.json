@@ -1,6 +1,6 @@
 {
   "vaultName": "OperatorDesignDoc",
-  "lastExport": 1733198390167,
+  "lastExport": 1733199965827,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": false,
@@ -8,6 +8,9 @@
   "files": [
     "characters/coworker.md",
     "characters/operator.md",
+    "images/Pasted image 20241202225831.png",
+    "images/Pasted image 20241202225932.png",
+    "templates/basic.md",
     "boss encounter.md",
     "CNC machine.md",
     "competition.md",
@@ -18,12 +21,10 @@
     "inspector.md",
     "management.md",
     "O'Neill Cylinder.md",
-    "Operator Design Document.md",
+    "index.md",
     "optimization.md",
     "part.md",
     "part order.md",
-    "Pasted image 20241202225831.png",
-    "Pasted image 20241202225932.png",
     "point of interest.md",
     "procedure.md",
     "program.md",
@@ -64,237 +65,243 @@
   ],
   "fileInfo": {
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1733198390167,
+      "modifiedTime": 1733199965827,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1733198390167,
+      "modifiedTime": 1733199965827,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1733198390167,
+      "modifiedTime": 1733199965827,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1733198390167,
+      "modifiedTime": 1733199965827,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1733198390167,
+      "modifiedTime": 1733199965827,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1733198390167,
+      "modifiedTime": 1733199965827,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1733198390167,
+      "modifiedTime": 1733199965827,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1733198390167,
+      "modifiedTime": 1733199965827,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1733198390167,
+      "modifiedTime": 1733199965827,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1733198390167,
+      "modifiedTime": 1733199965827,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1733198390167,
+      "modifiedTime": 1733199965827,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1733198390167,
+      "modifiedTime": 1733199965827,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1733198390167,
+      "modifiedTime": 1733199965827,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1733198390167,
+      "modifiedTime": 1733199965827,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
+    "O'Neill Cylinder.md": {
+      "modifiedTime": 1733199965827,
+      "sourceSize": 674,
+      "exportedPath": "O'Neill Cylinder.html",
+      "dependencies": []
+    },
+    "images/Pasted image 20241202225831.png": {
+      "modifiedTime": 1733199965827,
+      "sourceSize": 1670644,
+      "exportedPath": "images/Pasted image 20241202225831.png",
+      "dependencies": []
+    },
+    "images/Pasted image 20241202225932.png": {
+      "modifiedTime": 1733199965827,
+      "sourceSize": 1002599,
+      "exportedPath": "images/Pasted image 20241202225932.png",
+      "dependencies": []
+    },
+    "index.md": {
+      "modifiedTime": 1733199965827,
+      "sourceSize": 5545,
+      "exportedPath": "index.html",
+      "dependencies": []
+    },
     "characters/coworker.md": {
-      "modifiedTime": 1733198390167,
-      "sourceSize": 49,
+      "modifiedTime": 1733199965827,
+      "sourceSize": 90,
       "exportedPath": "characters/coworker.html",
       "dependencies": []
     },
     "characters/operator.md": {
-      "modifiedTime": 1733198390167,
-      "sourceSize": 83,
+      "modifiedTime": 1733199965827,
+      "sourceSize": 127,
       "exportedPath": "characters/operator.html",
       "dependencies": []
     },
     "boss encounter.md": {
-      "modifiedTime": 1733198390167,
-      "sourceSize": 769,
+      "modifiedTime": 1733199965827,
+      "sourceSize": 811,
       "exportedPath": "boss encounter.html",
       "dependencies": []
     },
     "CNC machine.md": {
-      "modifiedTime": 1733198390167,
-      "sourceSize": 198,
+      "modifiedTime": 1733199965827,
+      "sourceSize": 242,
       "exportedPath": "CNC machine.html",
       "dependencies": []
     },
     "competition.md": {
-      "modifiedTime": 1733198390167,
-      "sourceSize": 49,
+      "modifiedTime": 1733199965827,
+      "sourceSize": 92,
       "exportedPath": "competition.html",
       "dependencies": []
     },
     "consumable.md": {
-      "modifiedTime": 1733198390167,
-      "sourceSize": 109,
+      "modifiedTime": 1733199965827,
+      "sourceSize": 152,
       "exportedPath": "consumable.html",
       "dependencies": []
     },
     "currency.md": {
-      "modifiedTime": 1733198390167,
-      "sourceSize": 49,
+      "modifiedTime": 1733199965827,
+      "sourceSize": 92,
       "exportedPath": "currency.html",
       "dependencies": []
     },
     "cutting tool.md": {
-      "modifiedTime": 1733198390167,
-      "sourceSize": 49,
+      "modifiedTime": 1733199965827,
+      "sourceSize": 92,
       "exportedPath": "cutting tool.html",
       "dependencies": []
     },
     "downtime.md": {
-      "modifiedTime": 1733198390167,
-      "sourceSize": 585,
+      "modifiedTime": 1733199965827,
+      "sourceSize": 627,
       "exportedPath": "downtime.html",
       "dependencies": []
     },
     "inspector.md": {
-      "modifiedTime": 1733198390167,
-      "sourceSize": 49,
+      "modifiedTime": 1733199965827,
+      "sourceSize": 90,
       "exportedPath": "inspector.html",
       "dependencies": []
     },
     "management.md": {
-      "modifiedTime": 1733198390167,
-      "sourceSize": 49,
+      "modifiedTime": 1733199965827,
+      "sourceSize": 90,
       "exportedPath": "management.html",
       "dependencies": []
     },
-    "O'Neill Cylinder.md": {
-      "modifiedTime": 1733198390167,
-      "sourceSize": 631,
-      "exportedPath": "O'Neill Cylinder.html",
-      "dependencies": []
-    },
-    "Operator Design Document.md": {
-      "modifiedTime": 1733198390167,
-      "sourceSize": 5470,
-      "exportedPath": "Operator Design Document.html",
-      "dependencies": []
-    },
     "optimization.md": {
-      "modifiedTime": 1733198390167,
-      "sourceSize": 49,
+      "modifiedTime": 1733199965827,
+      "sourceSize": 92,
       "exportedPath": "optimization.html",
       "dependencies": []
     },
     "part.md": {
-      "modifiedTime": 1733198390167,
-      "sourceSize": 49,
+      "modifiedTime": 1733199965827,
+      "sourceSize": 92,
       "exportedPath": "part.html",
       "dependencies": []
     },
     "part order.md": {
-      "modifiedTime": 1733198390167,
-      "sourceSize": 85,
+      "modifiedTime": 1733199965827,
+      "sourceSize": 126,
       "exportedPath": "part order.html",
       "dependencies": []
     },
-    "Pasted image 20241202225831.png": {
-      "modifiedTime": 1733198390167,
-      "sourceSize": 1670644,
-      "exportedPath": "Pasted image 20241202225831.png",
-      "dependencies": []
-    },
-    "Pasted image 20241202225932.png": {
-      "modifiedTime": 1733198390167,
-      "sourceSize": 1002599,
-      "exportedPath": "Pasted image 20241202225932.png",
-      "dependencies": []
-    },
     "point of interest.md": {
-      "modifiedTime": 1733198390167,
-      "sourceSize": 49,
+      "modifiedTime": 1733199965827,
+      "sourceSize": 92,
       "exportedPath": "point of interest.html",
       "dependencies": []
     },
     "procedure.md": {
-      "modifiedTime": 1733198390167,
-      "sourceSize": 237,
+      "modifiedTime": 1733199965827,
+      "sourceSize": 280,
       "exportedPath": "procedure.html",
       "dependencies": []
     },
     "program.md": {
-      "modifiedTime": 1733198390167,
-      "sourceSize": 113,
+      "modifiedTime": 1733199965827,
+      "sourceSize": 157,
       "exportedPath": "program.html",
       "dependencies": []
     },
     "randomization.md": {
-      "modifiedTime": 1733198390167,
-      "sourceSize": 900,
+      "modifiedTime": 1733199965827,
+      "sourceSize": 943,
       "exportedPath": "randomization.html",
       "dependencies": []
     },
     "resources.md": {
-      "modifiedTime": 1733198390167,
-      "sourceSize": 193,
+      "modifiedTime": 1733199965827,
+      "sourceSize": 235,
       "exportedPath": "resources.html",
       "dependencies": []
     },
     "rogue-like.md": {
-      "modifiedTime": 1733198390167,
-      "sourceSize": 566,
+      "modifiedTime": 1733199965827,
+      "sourceSize": 609,
       "exportedPath": "rogue-like.html",
       "dependencies": []
     },
     "tool holder.md": {
-      "modifiedTime": 1733198390167,
-      "sourceSize": 49,
+      "modifiedTime": 1733199965827,
+      "sourceSize": 90,
       "exportedPath": "tool holder.html",
+      "dependencies": []
+    },
+    "templates/basic.md": {
+      "modifiedTime": 1733199965827,
+      "sourceSize": 92,
+      "exportedPath": "templates/basic.html",
       "dependencies": []
     }
   }
