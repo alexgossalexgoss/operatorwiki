@@ -1,6 +1,6 @@
 {
   "vaultName": "OperatorDesignDoc",
-  "lastExport": 1733596326412,
+  "lastExport": 1733596414883,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": false,
@@ -129,625 +129,625 @@
   ],
   "fileInfo": {
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1733596326412,
+      "modifiedTime": 1733596414883,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1733596326412,
+      "modifiedTime": 1733596414883,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1733596326412,
+      "modifiedTime": 1733596414883,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1733596326412,
+      "modifiedTime": 1733596414883,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1733596326412,
+      "modifiedTime": 1733596414883,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1733596326412,
+      "modifiedTime": 1733596414883,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1733596326412,
+      "modifiedTime": 1733596414883,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1733596326412,
+      "modifiedTime": 1733596414883,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1733596326412,
+      "modifiedTime": 1733596414883,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1733596326412,
+      "modifiedTime": 1733596414883,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1733596326412,
+      "modifiedTime": 1733596414883,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1733596326412,
+      "modifiedTime": 1733596414883,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1733596326412,
+      "modifiedTime": 1733596414883,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1733596326412,
+      "modifiedTime": 1733596414883,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "index.md": {
-      "modifiedTime": 1733596326412,
+      "modifiedTime": 1733596414883,
       "sourceSize": 6859,
       "exportedPath": "index.html",
       "dependencies": []
     },
     "characters/CNC machine.md": {
-      "modifiedTime": 1733596326412,
+      "modifiedTime": 1733596414883,
       "sourceSize": 1685,
       "exportedPath": "characters/CNC machine.html",
       "dependencies": []
     },
     "characters/coworker.md": {
-      "modifiedTime": 1733596326412,
+      "modifiedTime": 1733596414883,
       "sourceSize": 1592,
       "exportedPath": "characters/coworker.html",
       "dependencies": []
     },
     "characters/inspector.md": {
-      "modifiedTime": 1733596326412,
+      "modifiedTime": 1733596414883,
       "sourceSize": 2228,
       "exportedPath": "characters/inspector.html",
       "dependencies": []
     },
     "characters/operator.md": {
-      "modifiedTime": 1733596326412,
+      "modifiedTime": 1733596414883,
       "sourceSize": 1625,
       "exportedPath": "characters/operator.html",
       "dependencies": []
     },
     "characters/player character.md": {
-      "modifiedTime": 1733596326412,
+      "modifiedTime": 1733596414883,
       "sourceSize": 1555,
       "exportedPath": "characters/player character.html",
       "dependencies": []
     },
     "concepts/competition.md": {
-      "modifiedTime": 1733596326412,
+      "modifiedTime": 1733596414883,
       "sourceSize": 1533,
       "exportedPath": "concepts/competition.html",
       "dependencies": []
     },
     "concepts/management.md": {
-      "modifiedTime": 1733596326412,
+      "modifiedTime": 1733596414883,
       "sourceSize": 1534,
       "exportedPath": "concepts/management.html",
       "dependencies": []
     },
     "concepts/optimization.md": {
-      "modifiedTime": 1733596326412,
+      "modifiedTime": 1733596414883,
       "sourceSize": 1534,
       "exportedPath": "concepts/optimization.html",
       "dependencies": []
     },
     "concepts/rogue-like.md": {
-      "modifiedTime": 1733596326412,
+      "modifiedTime": 1733596414883,
       "sourceSize": 2054,
       "exportedPath": "concepts/rogue-like.html",
       "dependencies": []
     },
     "definitions/cutting tool definitions/tool coating.md": {
-      "modifiedTime": 1733596326412,
+      "modifiedTime": 1733596414883,
       "sourceSize": 1533,
       "exportedPath": "definitions/cutting tool definitions/tool coating.html",
       "dependencies": []
     },
     "definitions/cutting tool definitions/tool flute count.md": {
-      "modifiedTime": 1733596326412,
+      "modifiedTime": 1733596414883,
       "sourceSize": 1533,
       "exportedPath": "definitions/cutting tool definitions/tool flute count.html",
       "dependencies": []
     },
     "definitions/cutting tool definitions/tool size.md": {
-      "modifiedTime": 1733596326412,
+      "modifiedTime": 1733596414883,
       "sourceSize": 1532,
       "exportedPath": "definitions/cutting tool definitions/tool size.html",
       "dependencies": []
     },
     "definitions/cutting tool definitions/tool type.md": {
-      "modifiedTime": 1733596326412,
+      "modifiedTime": 1733596414883,
       "sourceSize": 1533,
       "exportedPath": "definitions/cutting tool definitions/tool type.html",
       "dependencies": []
     },
     "definitions/machining strategy definitions/2d milling strategy.md": {
-      "modifiedTime": 1733596326412,
+      "modifiedTime": 1733596414883,
       "sourceSize": 1533,
       "exportedPath": "definitions/machining strategy definitions/2d milling strategy.html",
       "dependencies": []
     },
     "definitions/machining strategy definitions/3d milling strategy.md": {
-      "modifiedTime": 1733596326412,
+      "modifiedTime": 1733596414883,
       "sourceSize": 1533,
       "exportedPath": "definitions/machining strategy definitions/3d milling strategy.html",
       "dependencies": []
     },
     "definitions/machining strategy definitions/holemaking strategy.md": {
-      "modifiedTime": 1733596326412,
+      "modifiedTime": 1733596414883,
       "sourceSize": 1533,
       "exportedPath": "definitions/machining strategy definitions/holemaking strategy.html",
       "dependencies": []
     },
     "definitions/part definitions/part feature/feature size/exterior.md": {
-      "modifiedTime": 1733596326412,
+      "modifiedTime": 1733596414883,
       "sourceSize": 1551,
       "exportedPath": "definitions/part definitions/part feature/feature size/exterior.html",
       "dependencies": []
     },
     "definitions/part definitions/part feature/feature size/large.md": {
-      "modifiedTime": 1733596326412,
+      "modifiedTime": 1733596414883,
       "sourceSize": 1532,
       "exportedPath": "definitions/part definitions/part feature/feature size/large.html",
       "dependencies": []
     },
     "definitions/part definitions/part feature/feature size/medium.md": {
-      "modifiedTime": 1733596326412,
+      "modifiedTime": 1733596414883,
       "sourceSize": 1532,
       "exportedPath": "definitions/part definitions/part feature/feature size/medium.html",
       "dependencies": []
     },
     "definitions/part definitions/part feature/feature size/micro.md": {
-      "modifiedTime": 1733596326412,
+      "modifiedTime": 1733596414883,
       "sourceSize": 1532,
       "exportedPath": "definitions/part definitions/part feature/feature size/micro.html",
       "dependencies": []
     },
     "definitions/part definitions/part feature/feature size/small.md": {
-      "modifiedTime": 1733596326412,
+      "modifiedTime": 1733596414883,
       "sourceSize": 1533,
       "exportedPath": "definitions/part definitions/part feature/feature size/small.html",
       "dependencies": []
     },
     "definitions/part definitions/part feature/feature tolerance class/class A.md": {
-      "modifiedTime": 1733596326412,
+      "modifiedTime": 1733596414883,
       "sourceSize": 1549,
       "exportedPath": "definitions/part definitions/part feature/feature tolerance class/class A.html",
       "dependencies": []
     },
     "definitions/part definitions/part feature/feature tolerance class/class B.md": {
-      "modifiedTime": 1733596326412,
+      "modifiedTime": 1733596414883,
       "sourceSize": 1532,
       "exportedPath": "definitions/part definitions/part feature/feature tolerance class/class B.html",
       "dependencies": []
     },
     "definitions/part definitions/part feature/feature tolerance class/class C.md": {
-      "modifiedTime": 1733596326412,
+      "modifiedTime": 1733596414883,
       "sourceSize": 1533,
       "exportedPath": "definitions/part definitions/part feature/feature tolerance class/class C.html",
       "dependencies": []
     },
     "definitions/part definitions/part feature/feature tolerance class/class F.md": {
-      "modifiedTime": 1733596326412,
+      "modifiedTime": 1733596414883,
       "sourceSize": 1533,
       "exportedPath": "definitions/part definitions/part feature/feature tolerance class/class F.html",
       "dependencies": []
     },
     "definitions/part definitions/part feature/feature tolerance class/class S.md": {
-      "modifiedTime": 1733596326412,
+      "modifiedTime": 1733596414883,
       "sourceSize": 1549,
       "exportedPath": "definitions/part definitions/part feature/feature tolerance class/class S.html",
       "dependencies": []
     },
     "definitions/part definitions/part feature/feature size.md": {
-      "modifiedTime": 1733596326412,
+      "modifiedTime": 1733596414883,
       "sourceSize": 1533,
       "exportedPath": "definitions/part definitions/part feature/feature size.html",
       "dependencies": []
     },
     "definitions/part definitions/part feature/feature type.md": {
-      "modifiedTime": 1733596326412,
+      "modifiedTime": 1733596414883,
       "sourceSize": 1533,
       "exportedPath": "definitions/part definitions/part feature/feature type.html",
       "dependencies": []
     },
     "definitions/part definitions/part feature/tolerance class.md": {
-      "modifiedTime": 1733596326412,
+      "modifiedTime": 1733596414883,
       "sourceSize": 1533,
       "exportedPath": "definitions/part definitions/part feature/tolerance class.html",
       "dependencies": []
     },
     "definitions/part definitions/material.md": {
-      "modifiedTime": 1733596326412,
+      "modifiedTime": 1733596414883,
       "sourceSize": 1899,
       "exportedPath": "definitions/part definitions/material.html",
       "dependencies": []
     },
     "definitions/part definitions/part feature.md": {
-      "modifiedTime": 1733596326412,
+      "modifiedTime": 1733596414883,
       "sourceSize": 1888,
       "exportedPath": "definitions/part definitions/part feature.html",
       "dependencies": []
     },
     "definitions/part order definitions/accuracy.md": {
-      "modifiedTime": 1733596326412,
+      "modifiedTime": 1733596414883,
       "sourceSize": 1533,
       "exportedPath": "definitions/part order definitions/accuracy.html",
       "dependencies": []
     },
     "definitions/part order definitions/quantity.md": {
-      "modifiedTime": 1733596326412,
+      "modifiedTime": 1733596414883,
       "sourceSize": 1533,
       "exportedPath": "definitions/part order definitions/quantity.html",
       "dependencies": []
     },
     "definitions/part order definitions/specifications.md": {
-      "modifiedTime": 1733596326412,
+      "modifiedTime": 1733596414883,
       "sourceSize": 1533,
       "exportedPath": "definitions/part order definitions/specifications.html",
       "dependencies": []
     },
     "definitions/part order definitions/stock available.md": {
-      "modifiedTime": 1733596326412,
+      "modifiedTime": 1733596414883,
       "sourceSize": 1533,
       "exportedPath": "definitions/part order definitions/stock available.html",
       "dependencies": []
     },
     "definitions/part order definitions/time.md": {
-      "modifiedTime": 1733596326412,
+      "modifiedTime": 1733596414883,
       "sourceSize": 1533,
       "exportedPath": "definitions/part order definitions/time.html",
       "dependencies": []
     },
     "definitions/tool holder definitions/balance level.md": {
-      "modifiedTime": 1733596326412,
+      "modifiedTime": 1733596414883,
       "sourceSize": 49,
       "exportedPath": "definitions/tool holder definitions/balance level.html",
       "dependencies": []
     },
     "definitions/tool holder definitions/collet.md": {
-      "modifiedTime": 1733596326412,
+      "modifiedTime": 1733596414883,
       "sourceSize": 49,
       "exportedPath": "definitions/tool holder definitions/collet.html",
       "dependencies": []
     },
     "definitions/tool holder definitions/extended reach.md": {
-      "modifiedTime": 1733596326412,
+      "modifiedTime": 1733596414883,
       "sourceSize": 49,
       "exportedPath": "definitions/tool holder definitions/extended reach.html",
       "dependencies": []
     },
     "definitions/tool holder definitions/floating.md": {
-      "modifiedTime": 1733596326412,
+      "modifiedTime": 1733596414883,
       "sourceSize": 49,
       "exportedPath": "definitions/tool holder definitions/floating.html",
       "dependencies": []
     },
     "definitions/tool holder definitions/holder type.md": {
-      "modifiedTime": 1733596326412,
+      "modifiedTime": 1733596414883,
       "sourceSize": 49,
       "exportedPath": "definitions/tool holder definitions/holder type.html",
       "dependencies": []
     },
     "definitions/tool holder definitions/hydraulic.md": {
-      "modifiedTime": 1733596326412,
+      "modifiedTime": 1733596414883,
       "sourceSize": 49,
       "exportedPath": "definitions/tool holder definitions/hydraulic.html",
       "dependencies": []
     },
     "definitions/tool holder definitions/shank lock.md": {
-      "modifiedTime": 1733596326412,
+      "modifiedTime": 1733596414883,
       "sourceSize": 49,
       "exportedPath": "definitions/tool holder definitions/shank lock.html",
       "dependencies": []
     },
     "definitions/tool holder definitions/shrink fit.md": {
-      "modifiedTime": 1733596326412,
+      "modifiedTime": 1733596414883,
       "sourceSize": 49,
       "exportedPath": "definitions/tool holder definitions/shrink fit.html",
       "dependencies": []
     },
     "images/Pasted image 20241202225831.png": {
-      "modifiedTime": 1733596326412,
+      "modifiedTime": 1733596414883,
       "sourceSize": 1670644,
       "exportedPath": "images/Pasted image 20241202225831.png",
       "dependencies": []
     },
     "images/Pasted image 20241202225932.png": {
-      "modifiedTime": 1733596326412,
+      "modifiedTime": 1733596414883,
       "sourceSize": 1002599,
       "exportedPath": "images/Pasted image 20241202225932.png",
       "dependencies": []
     },
     "images/Pasted image 20241204114113.png": {
-      "modifiedTime": 1733596326412,
+      "modifiedTime": 1733596414883,
       "sourceSize": 159124,
       "exportedPath": "images/Pasted image 20241204114113.png",
       "dependencies": []
     },
     "images/Pasted image 20241204114158.png": {
-      "modifiedTime": 1733596326412,
+      "modifiedTime": 1733596414883,
       "sourceSize": 485716,
       "exportedPath": "images/Pasted image 20241204114158.png",
       "dependencies": []
     },
     "images/Pasted image 20241204114244.png": {
-      "modifiedTime": 1733596326412,
+      "modifiedTime": 1733596414883,
       "sourceSize": 51269,
       "exportedPath": "images/Pasted image 20241204114244.png",
       "dependencies": []
     },
     "images/Pasted image 20241204114258.png": {
-      "modifiedTime": 1733596326412,
+      "modifiedTime": 1733596414883,
       "sourceSize": 258193,
       "exportedPath": "images/Pasted image 20241204114258.png",
       "dependencies": []
     },
     "images/Pasted image 20241204114324.png": {
-      "modifiedTime": 1733596326412,
+      "modifiedTime": 1733596414883,
       "sourceSize": 374814,
       "exportedPath": "images/Pasted image 20241204114324.png",
       "dependencies": []
     },
     "images/Pasted image 20241204114609.png": {
-      "modifiedTime": 1733596326412,
+      "modifiedTime": 1733596414883,
       "sourceSize": 637082,
       "exportedPath": "images/Pasted image 20241204114609.png",
       "dependencies": []
     },
     "images/Pasted image 20241204114645.png": {
-      "modifiedTime": 1733596326412,
+      "modifiedTime": 1733596414883,
       "sourceSize": 798193,
       "exportedPath": "images/Pasted image 20241204114645.png",
       "dependencies": []
     },
     "images/Pasted image 20241204130327.png": {
-      "modifiedTime": 1733596326412,
+      "modifiedTime": 1733596414883,
       "sourceSize": 340006,
       "exportedPath": "images/Pasted image 20241204130327.png",
       "dependencies": []
     },
     "images/vlcsnap-2024-12-04-11h37m21s506.png": {
-      "modifiedTime": 1733596326412,
+      "modifiedTime": 1733596414883,
       "sourceSize": 1032287,
       "exportedPath": "images/vlcsnap-2024-12-04-11h37m21s506.png",
       "dependencies": []
     },
     "images/vlcsnap-2024-12-04-11h37m30s978.png": {
-      "modifiedTime": 1733596326412,
+      "modifiedTime": 1733596414883,
       "sourceSize": 934833,
       "exportedPath": "images/vlcsnap-2024-12-04-11h37m30s978.png",
       "dependencies": []
     },
     "images/vlcsnap-2024-12-04-11h37m43s711.png": {
-      "modifiedTime": 1733596326412,
+      "modifiedTime": 1733596414883,
       "sourceSize": 1032351,
       "exportedPath": "images/vlcsnap-2024-12-04-11h37m43s711.png",
       "dependencies": []
     },
     "mechanics/modes/boss encounter.md": {
-      "modifiedTime": 1733596326412,
+      "modifiedTime": 1733596414883,
       "sourceSize": 1564,
       "exportedPath": "mechanics/modes/boss encounter.html",
       "dependencies": []
     },
     "mechanics/modes/downtime.md": {
-      "modifiedTime": 1733596326412,
+      "modifiedTime": 1733596414883,
       "sourceSize": 63,
       "exportedPath": "mechanics/modes/downtime.html",
       "dependencies": []
     },
     "mechanics/modes/inventory.md": {
-      "modifiedTime": 1733596326412,
+      "modifiedTime": 1733596414883,
       "sourceSize": 1533,
       "exportedPath": "mechanics/modes/inventory.html",
       "dependencies": []
     },
     "mechanics/modes/lunch.md": {
-      "modifiedTime": 1733596326412,
+      "modifiedTime": 1733596414883,
       "sourceSize": 2061,
       "exportedPath": "mechanics/modes/lunch.html",
       "dependencies": []
     },
     "mechanics/statuses/machine statuses/attunement.md": {
-      "modifiedTime": 1733596326412,
+      "modifiedTime": 1733596414883,
       "sourceSize": 1612,
       "exportedPath": "mechanics/statuses/machine statuses/attunement.html",
       "dependencies": []
     },
     "mechanics/statuses/player statuses/drugs.md": {
-      "modifiedTime": 1733596326412,
+      "modifiedTime": 1733596414883,
       "sourceSize": 1564,
       "exportedPath": "mechanics/statuses/player statuses/drugs.html",
       "dependencies": []
     },
     "mechanics/statuses/player statuses/tattoos.md": {
-      "modifiedTime": 1733596326412,
+      "modifiedTime": 1733596414883,
       "sourceSize": 1533,
       "exportedPath": "mechanics/statuses/player statuses/tattoos.html",
       "dependencies": []
     },
     "mechanics/statuses/machine statuses.md": {
-      "modifiedTime": 1733596326412,
+      "modifiedTime": 1733596414883,
       "sourceSize": 1550,
       "exportedPath": "mechanics/statuses/machine statuses.html",
       "dependencies": []
     },
     "mechanics/statuses/player statuses.md": {
-      "modifiedTime": 1733596326412,
+      "modifiedTime": 1733596414883,
       "sourceSize": 1619,
       "exportedPath": "mechanics/statuses/player statuses.html",
       "dependencies": []
     },
     "mechanics/statuses/world statuses.md": {
-      "modifiedTime": 1733596326412,
+      "modifiedTime": 1733596414883,
       "sourceSize": 2399,
       "exportedPath": "mechanics/statuses/world statuses.html",
       "dependencies": []
     },
     "mechanics/production-run.md": {
-      "modifiedTime": 1733596326412,
+      "modifiedTime": 1733596414883,
       "sourceSize": 2227,
       "exportedPath": "mechanics/production-run.html",
       "dependencies": []
     },
     "mechanics/randomization.md": {
-      "modifiedTime": 1733596326412,
+      "modifiedTime": 1733596414883,
       "sourceSize": 2451,
       "exportedPath": "mechanics/randomization.html",
       "dependencies": []
     },
     "mechanics/tool wear cost.md": {
-      "modifiedTime": 1733596326412,
+      "modifiedTime": 1733596414883,
       "sourceSize": 1653,
       "exportedPath": "mechanics/tool wear cost.html",
       "dependencies": []
     },
     "objects/points of interest/breakroom.md": {
-      "modifiedTime": 1733596326412,
+      "modifiedTime": 1733596414883,
       "sourceSize": 1532,
       "exportedPath": "objects/points of interest/breakroom.html",
       "dependencies": []
     },
     "objects/points of interest/control panel.md": {
-      "modifiedTime": 1733596326412,
+      "modifiedTime": 1733596414883,
       "sourceSize": 1575,
       "exportedPath": "objects/points of interest/control panel.html",
       "dependencies": []
     },
     "objects/points of interest/coolant dispensing station.md": {
-      "modifiedTime": 1733596326412,
+      "modifiedTime": 1733596414883,
       "sourceSize": 1928,
       "exportedPath": "objects/points of interest/coolant dispensing station.html",
       "dependencies": []
     },
     "objects/points of interest/cutting tool dispenser.md": {
-      "modifiedTime": 1733596326412,
+      "modifiedTime": 1733596414883,
       "sourceSize": 2302,
       "exportedPath": "objects/points of interest/cutting tool dispenser.html",
       "dependencies": []
     },
     "objects/points of interest/job board.md": {
-      "modifiedTime": 1733596326412,
+      "modifiedTime": 1733596414883,
       "sourceSize": 1552,
       "exportedPath": "objects/points of interest/job board.html",
       "dependencies": []
     },
     "objects/points of interest/tool assembly bench.md": {
-      "modifiedTime": 1733596326412,
+      "modifiedTime": 1733596414883,
       "sourceSize": 1962,
       "exportedPath": "objects/points of interest/tool assembly bench.html",
       "dependencies": []
     },
     "objects/points of interest/workbench.md": {
-      "modifiedTime": 1733596326412,
+      "modifiedTime": 1733596414883,
       "sourceSize": 1536,
       "exportedPath": "objects/points of interest/workbench.html",
       "dependencies": []
     },
     "objects/consumable.md": {
-      "modifiedTime": 1733596326412,
+      "modifiedTime": 1733596414883,
       "sourceSize": 1595,
       "exportedPath": "objects/consumable.html",
       "dependencies": []
     },
     "objects/currency.md": {
-      "modifiedTime": 1733596326412,
+      "modifiedTime": 1733596414883,
       "sourceSize": 1534,
       "exportedPath": "objects/currency.html",
       "dependencies": []
     },
     "objects/cutting tool.md": {
-      "modifiedTime": 1733596326412,
+      "modifiedTime": 1733596414883,
       "sourceSize": 1747,
       "exportedPath": "objects/cutting tool.html",
       "dependencies": []
     },
     "objects/machining strategies.md": {
-      "modifiedTime": 1733596326412,
+      "modifiedTime": 1733596414883,
       "sourceSize": 1899,
       "exportedPath": "objects/machining strategies.html",
       "dependencies": []
     },
     "objects/part.md": {
-      "modifiedTime": 1733596326412,
+      "modifiedTime": 1733596414883,
       "sourceSize": 1619,
       "exportedPath": "objects/part.html",
       "dependencies": []
     },
     "objects/part order.md": {
-      "modifiedTime": 1733596326412,
+      "modifiedTime": 1733596414883,
       "sourceSize": 1812,
       "exportedPath": "objects/part order.html",
       "dependencies": []
     },
     "objects/point of interest.md": {
-      "modifiedTime": 1733596326412,
+      "modifiedTime": 1733596414883,
       "sourceSize": 1861,
       "exportedPath": "objects/point of interest.html",
       "dependencies": []
     },
     "objects/procedure.md": {
-      "modifiedTime": 1733596326412,
+      "modifiedTime": 1733596414883,
       "sourceSize": 1739,
       "exportedPath": "objects/procedure.html",
       "dependencies": []
     },
     "objects/resources.md": {
-      "modifiedTime": 1733596326412,
+      "modifiedTime": 1733596414883,
       "sourceSize": 1710,
       "exportedPath": "objects/resources.html",
       "dependencies": []
     },
     "objects/tool holder.md": {
-      "modifiedTime": 1733596326412,
+      "modifiedTime": 1733596414883,
       "sourceSize": 2036,
       "exportedPath": "objects/tool holder.html",
       "dependencies": []
     },
     "references/O'Neill Cylinder.md": {
-      "modifiedTime": 1733596326412,
+      "modifiedTime": 1733596414883,
       "sourceSize": 2116,
       "exportedPath": "references/O'Neill Cylinder.html",
       "dependencies": []
     },
     "templates/footer-template.md": {
-      "modifiedTime": 1733596326412,
+      "modifiedTime": 1733596414883,
       "sourceSize": 1532,
       "exportedPath": "templates/footer-template.html",
       "dependencies": []
